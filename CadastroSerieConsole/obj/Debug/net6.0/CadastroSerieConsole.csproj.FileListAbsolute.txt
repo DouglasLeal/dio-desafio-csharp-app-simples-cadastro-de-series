@@ -1,0 +1,15 @@
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\bin\Debug\net6.0\CadastroSerieConsole.exe
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\bin\Debug\net6.0\CadastroSerieConsole.deps.json
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\bin\Debug\net6.0\CadastroSerieConsole.runtimeconfig.json
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\bin\Debug\net6.0\CadastroSerieConsole.dll
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\bin\Debug\net6.0\CadastroSerieConsole.pdb
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\obj\Debug\net6.0\CadastroSerieConsole.csproj.AssemblyReference.cache
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\obj\Debug\net6.0\CadastroSerieConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\obj\Debug\net6.0\CadastroSerieConsole.AssemblyInfoInputs.cache
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\obj\Debug\net6.0\CadastroSerieConsole.AssemblyInfo.cs
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\obj\Debug\net6.0\CadastroSerieConsole.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\obj\Debug\net6.0\CadastroSerieConsole.dll
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\obj\Debug\net6.0\refint\CadastroSerieConsole.dll
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\obj\Debug\net6.0\CadastroSerieConsole.pdb
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\obj\Debug\net6.0\CadastroSerieConsole.genruntimeconfig.cache
+C:\Users\dougl\Desktop\CadastroSerieConsole\CadastroSerieConsole\obj\Debug\net6.0\ref\CadastroSerieConsole.dll
